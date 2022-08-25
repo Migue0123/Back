@@ -6,7 +6,9 @@ namespace FirstAplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int edad = 23;
+
+            Console.WriteLine($"Tienes una edad de {edad}");
         }
     }
 }
